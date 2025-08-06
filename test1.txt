@@ -2,3 +2,4 @@ test 1.txt
 hi how are you
 i have completed my master
 this is feauture branch this make cmd
+feauter hi
